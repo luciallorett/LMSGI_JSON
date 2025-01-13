@@ -1,0 +1,40 @@
+<xml version="1.0" encoding="UTF-8">
+
+<!-- etiqueta general per info de la botiga online -->
+<botiga>
+
+	<!-- etiqueta que engloba el llistat de productes -->
+	<llistaProductes>
+		
+		<!-- etiqueta individual per cada producte amb atribut "categoria" per classificar-los -->
+		<producte categoria="pantalons">
+			<!-- etiquetes de detall de cada producte -->
+			<codi>0706/959/800</codi>
+			<nom>PANTALONS WIDE FIT AMB PLECS</nom>
+			<descripcio>Pantalons wide fit. Cintura amb detall de plecs frontals. Butxaques laterals i detall de butxaques posteriors amb viu. Tancament frontal amb cremallera i gafet de metall amagat.</descripcio>
+			<preu>39,95€</preu>
+			<disponibilitat>Esgotat</disponibilitat>
+			<imatge>https://static.zara.net/assets/public/b4cd/ecab/40734fd0a713/a03d435bc379/00706959800-e1/00706959800-e1.jpg?ts=1728915143757&w=563</imatge>
+		</producte>
+
+		<producte categoria="jerseis">
+			<codi>5536/201/719</codi>
+			<nom>JERSEI SOFT DE PUNT</nom>
+			<descripcio>Jaqueta de coll rodó i màniga llarga. Acabats de rib. Baixos amb obertures laterals. Tancament frontal amb botons al to.</descripcio>
+			<preu>25,95€</preu>
+			<disponibilitat>En stock</disponibilitat>
+			<imatge>https://static.zara.net/assets/public/e19c/f03c/0b7e496e8166/76873f63b275/05536201719-e1/05536201719-e1.jpg?ts=1728464875396&w=563</imatge>
+		</producte>
+		
+		<producte categoria="bijuteria">
+			<codi>1856/322/303</codi>
+			<nom>ARRECADES CÈRCOLS MITJANS TWISTED</nom>
+			<descripcio>Arracades de cèrcol mitjà metàl·lic. Tancament amb rosca. Color daurat.</descripcio>
+			<preu>12,95€</preu>
+			<disponibilitat>En stock</disponibilitat>
+			<imatge>https://static.zara.net/assets/public/1a75/f6c5/318244fc9430/089000af8016/01856322303-e22/01856322303-e22.jpg?ts=1729180520084&w=563</imatge>
+		</producte>	
+
+	</llistaProductes>
+
+</botiga>
