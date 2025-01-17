@@ -1,0 +1,74 @@
+{
+  "pokemons": [
+    {
+      "id": 39,
+      "nom": "Jigglypuff",
+      "tipus": ["Normal", "Fada"],
+      "pes": "5.5 kg",
+      "altura": "0.5 m",
+      "estadistiques": {
+        "velocitat": 5,
+        "fortalesa": 3,
+        "precisió": 4,
+        "resistència": 5
+      },
+      "moviments": [
+        {
+          "nom": "Canto",
+          "descripció": "Entona una melodia que dorm als seus enemics.",
+          "potència": 0,
+          "contacte": "No"
+        },
+        {
+          "nom": "Encant",
+          "descripció": "Redueix dos nivells l'atac de l'objectiu.",
+          "potència": 0,
+          "contacte": "No"
+        }
+      ],
+      "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/a/af/latest/20150110232910/Jigglypuff.png",
+      "evolucions": [
+        {
+          "id": 40,
+          "nom": "Wigglytuff",
+          "nivell": "Pedra Lunar"
+        }
+      ]
+    },    
+    {
+        "id": 350,
+        "nom": "Milotic",
+        "tipus": ["Aigua"],
+        "pes": "162.0 kg",
+        "altura": "6.2 m",
+        "estadistiques": {
+          "velocitat": 4,
+          "fortalesa": 3,
+          "precisió": 5,
+          "resistència": 5
+        },
+        "moviments": [
+          {
+            "nom": "Surf",
+            "descripció": "Un gran onatge que colpeja tots els enemics al voltant.",
+            "potència": 95,
+            "contacte": "No"
+          },
+          {
+            "nom": "Hidropulso",
+            "descripció": "Esfera d'aigua comprimida que impacta amb gran velocitat a l'oponent.",
+            "potència": 60,
+            "contacte": "No"
+          }
+        ],
+        "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/b/b1/latest/20230302020429/Milotic.png",
+        "evolucions": [
+          {
+            "id": 349,
+            "nom": "Feebas",
+            "nivell": "Intercanvi amb Escama Bella"
+          }
+        ]
+      }
+    ]
+}
